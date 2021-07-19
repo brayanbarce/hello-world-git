@@ -77,4 +77,11 @@ function $initHighlight(block, cls) {
 }
 
 export  $initHighlight;
-````
+```
+
+# Tablas 
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| César  | Bárcenas | 2016300139| 
+|Marielena| Carmona | 2516310558|
+
