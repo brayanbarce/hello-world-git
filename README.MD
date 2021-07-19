@@ -85,3 +85,10 @@ export  $initHighlight;
 | César  | Bárcenas | 2016300139| 
 |Marielena| Carmona | 2516310558|
 
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
